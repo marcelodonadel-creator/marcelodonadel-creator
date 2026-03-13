@@ -42,7 +42,7 @@ Aqui estão alguns projetos que desenvolvi durante meus estudos:
 ## Contato
 
  Email: marcelo_doandel@estudante.sesisenai.org.br 
- GitHub: https://github.com/marcelodonadel
+ GitHub: https://github.com/marcelodonadel-creator
 
 ---
 
