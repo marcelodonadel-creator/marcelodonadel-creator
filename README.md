@@ -3,7 +3,6 @@
 🎓 Estudante da Aprendizagem Industrial em Programador de Sistema de Informatica.(SENAI) contratado pela empresa Grupo Farenzena.
 
 🎓Estudo no 2º ano do ensino médio, na escola Celilia Vivan 2026.
-
 🎓Aprendizagem Industrial de Assistente em Processos de Gestão e Controle de Materiais - 4.0
 
 
