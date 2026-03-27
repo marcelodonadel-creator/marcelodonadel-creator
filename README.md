@@ -11,7 +11,7 @@
 
 ---
 
-##🙋🏽‍♂️ Sobre mim
+## 🙋🏽‍♂️ Sobre mim
 
 Sou estudante da área de tecnologia e estou aprendendo conceitos de programação, desenvolvimento web e ferramentas digitais.  
 Meu objetivo é desenvolver habilidades tecnológicas e criar projetos que contribuam para minha formação profissional.
@@ -48,7 +48,7 @@ Aqui estão alguns projetos que desenvolvi durante meus estudos:
 ## 📫 Contato
 
 📧Email: marcelo_doandel@estudante.sesisenai.org.br 
- 💼GitHub: https://github.com/marcelodonadel-creator
+💼GitHub: https://github.com/marcelodonadel-creator
 
 ---
 
