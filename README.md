@@ -1,18 +1,22 @@
-# Olá, eu sou Marcelo Rogério Donadel
+#👋 Olá, eu sou Marcelo Rogério Donadel
 
- Estudante da Aprendizagem Industrial em rpogramador de sistema de informatica. 
- Interessado em tecnologia, programação e inovação  
+🎓 Estudante da Aprendizagem Industrial em Programador de Sistema de Informatica.(SENAI) contratado pela empresa Grupo Farenzena.
+🎓Estudo no 2º ano do ensino médio, na escola Celilia Vivan 2026.
+🎓Aprendizagem Industrial de Assistente em Processos de Gestão e Controle de Materiais - 4.0
+
+
+💻Interessado em tecnoligia, programação e inovação.
 
 ---
 
-## Sobre mim
+##🙋🏽‍♂️ Sobre mim
 
 Sou estudante da área de tecnologia e estou aprendendo conceitos de programação, desenvolvimento web e ferramentas digitais.  
 Meu objetivo é desenvolver habilidades tecnológicas e criar projetos que contribuam para minha formação profissional.
 
 ---
 
-## Tecnologias que estou aprendendo
+## 🛠Tecnologias que estou aprendendo
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -20,30 +24,30 @@ Meu objetivo é desenvolver habilidades tecnológicas e criar projetos que contr
 
 ---
 
-## O que estou estudando
+## 📚 O que estou estudando
 
- Lógica de Programação  
- Programação em Python  
- Desenvolvimento Web  
- Ferramentas Digitais  
+🧠 Lógica de Programação  
+🐍 Programação em Python  
+🌐 Desenvolvimento Web  
+📊 Ferramentas Digitais  
 
 ---
 
-## Projetos
+## 🚀 Projetos
 
 Aqui estão alguns projetos que desenvolvi durante meus estudos:
 
- Projeto 1 – [Nome do Projeto]  
- Projeto 2 – [Nome do Projeto]  
- Projeto 3 – [Nome do Projeto]  
+📌 Projeto 1 – [Nome do Projeto]  
+📌 Projeto 2 – [Nome do Projeto]  
+📌 Projeto 3 – [Nome do Projeto]  
 
 ---
 
-## Contato
+## 📫 Contato
 
- Email: marcelo_doandel@estudante.sesisenai.org.br 
- GitHub: https://github.com/marcelodonadel-creator
+📧Email: marcelo_doandel@estudante.sesisenai.org.br 
+ 💼GitHub: https://github.com/marcelodonadel-creator
 
 ---
 
- Obrigado por visitar meu perfil!
+ ⭐Obrigado por visitar meu perfil!
